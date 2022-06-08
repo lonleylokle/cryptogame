@@ -1,7 +1,3 @@
-#### Demonstration
-
-https://www.youtube.com/watch?v=omzJB6aT5tQ
-
 #### Build
 
 1. Install truffle, Angular CLI and an Ethereum client. If you don't have a test environment
